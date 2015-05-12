@@ -1,0 +1,52 @@
+form {
+  border: 14px solid blue;
+  border-radius: 15px;
+}
+
+.text {
+    color: blue;
+    font-family: verdana;
+    font-size: 15px;
+    padding: 14px;
+    width: 223px;
+    height: 53px;
+    border-radius: 15px;
+}
+
+.names {
+  padding: 23px;
+  text-align: center;
+  margin: 23px;
+  border-radius: 15px; 
+}
+
+.pass_email {
+  text-align: center;
+}
+
+.password_style {
+    text-align: center;
+    font-family: verdana;
+    margin: 6px;
+    border-radius: 7px;  
+    display: inline-block;
+}
+
+.select_style {
+    text-align: center;
+    font-family: verdana;
+}
+
+.numbers {
+    text-align: center;
+}
+
+.email_style {
+    text-align: center;
+    display: inline-block;
+}
+
+#button_style  {
+  margin: 34px;
+  text-align: center;
+}
