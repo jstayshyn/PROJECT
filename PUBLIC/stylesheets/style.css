@@ -1,6 +1,7 @@
 form {
   border: 14px solid blue;
   border-radius: 15px;
+  padding: 12px;
 }
 
 .text {
